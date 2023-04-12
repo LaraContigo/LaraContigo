@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Trilingual Agent
+- 🔭 I’m currently working as Trilingual Agent (Spanish, English, and Portuguese)
 - 🌱 I’m currently learning a new language! I am learning JavaScript 🤩
 - 👯 I’m looking to collaborate with people around the globe! 🌎
 - 🤔 I’m looking for help with my Programming Learning.
